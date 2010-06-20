@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors = ["sanemat"]
   s.date = %q{2010-06-21}
   s.default_executable = %q{screenout}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{attatch on GNU Screen's status line}
   s.email = %q{o.gata.ken@gmail.com}
   s.executables = ["screenout"]
   s.extra_rdoc_files = [
@@ -38,7 +38,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.6}
-  s.summary = %q{TODO: one-line summary of your gem}
+  s.summary = %q{attatch on GNU Screen's status line}
   s.test_files = [
     "spec/spec_helper.rb",
      "spec/screenout_spec.rb"
