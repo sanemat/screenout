@@ -1,0 +1,21 @@
+--- 
+dependencies: 
+  rr: 
+    group: 
+    - :test
+    version: ">= 0"
+  rspec: 
+    group: 
+    - :test
+    version: ">= 0"
+    require: 
+    - spec
+specs: 
+- rr: 
+    version: 0.10.11
+- rspec: 
+    version: 1.3.0
+hash: 8221c155bb713ab44bc0f1a9bef7c7b353b0de99
+sources: 
+- Rubygems: 
+    uri: http://rubygems.org

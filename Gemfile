@@ -1,7 +1,6 @@
 source 'http://rubygems.org'
 
 group :runtime do
-  gem 'trollop'
 end
 
 group :test do
