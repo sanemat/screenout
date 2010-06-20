@@ -27,7 +27,9 @@ Gem::Specification.new do |s|
      "README.txt",
      "Rakefile",
      "VERSION",
+     "bin/screenout",
      "lib/screenout.rb",
+     "screenout.gemspec",
      "spec/screenout_spec.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb"
