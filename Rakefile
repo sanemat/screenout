@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "screenout"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{attatch on GNU Screen's status line}
+    gem.description = %Q{attatch on GNU Screen's status line}
     gem.email = "o.gata.ken@gmail.com"
     gem.homepage = "http://github.com/sanemat/screenout"
     gem.authors = ["sanemat"]
